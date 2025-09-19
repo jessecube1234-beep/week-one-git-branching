@@ -30,13 +30,6 @@ Rebasing essentially takes a set of commits, "copies" them, and plops them down 
 
 ### screenshots showing completion
 
-![introduction completion](<img width="1915" height="882" alt="Introduction Sequence 1-4" src="https://github.com/user-attachments/assets/923c6a9c-493a-4a36-a4eb-8f2224750c7c" />
+(<img width="1915" height="882" alt="Introduction Sequence 1-4" src="https://github.com/user-attachments/assets/923c6a9c-493a-4a36-a4eb-8f2224750c7c" />
 )
-
-![Level 1](<img width="1910" height="862" alt="Level 1 Git Commits" src="https://github.com/user-attachments/assets/6434beb0-fdc7-456f-af27-ad593d80865d" />
-)
-
-![Level 2}(<img width="1913" height="871" alt="Git Branching Level 2" src="https://github.com/user-attachments/assets/e36b32cf-8c41-4dc9-9153-c7a194dde759" />
-)
-
 
